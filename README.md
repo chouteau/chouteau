@@ -13,8 +13,10 @@ Focused on automation, clean systems and scalable business software.
 ![SaaS](https://img.shields.io/badge/SaaS-000000?style=flat)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-0EA5E9?style=flat)
+![Aspire](https://img.shields.io/badge/.NET-Aspire-6B21A8?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-000000?style=flat)
@@ -23,13 +25,13 @@ Focused on automation, clean systems and scalable business software.
 
 ### 🚀 Products
 
-| Product | Positioning | Status |
-|--------|------------|--------|
-| **Reassort Pro** | Intelligent inventory automation for SMBs | 🚀 Active |
-| **AuditStock Pro** | Stock analytics & optimization platform | 🚀 Scaling |
-| **StockAsso** | Digital ecosystem for sports organizations | ⚡ Production |
-| **StockAsso Pro** | Textile & stock SaaS for manufacturers | ⚡ Live |
-| **ActuAsso** | Media platform for associations | 🧪 Ongoing |
+| Product | Positioning | Links | Status |
+|--------|------------|------|-------|
+| **AuditStock Pro** | Stock analytics & optimization platform | https://www.auditstock.pro | 🧪 Ongoing |
+| **Reassort Pro** | Intelligent inventory automation for SMBs | https://www.reassort.pro | ⚡ Production |
+| **StockAsso Pro** | Textile & stock SaaS for manufacturers | https://www.stockasso.pro | ⚡ Production |
+| **ActuAsso** | Media platform for associations | https://www.actuasso.com | ⚡ Production |
+| **StockAsso** | Digital ecosystem for sports organizations | https://www.stockasso.com | ⚡ Production |
 
 ---
 
@@ -40,17 +42,8 @@ Focused on automation, clean systems and scalable business software.
 - Automated cloud infrastructure  
 - AI-powered business tools  
 
-Everything built with a strong bias toward:
+Everything built with a strong bias toward:  
 **simplicity · reliability · shipping fast**
-
----
-
-### 🏗️ Currently
-
-- Scaling multiple SaaS products  
-- Exploring AI-native workflows  
-- Building lean cloud infrastructures  
-- Optimizing developer velocity  
 
 ---
 
