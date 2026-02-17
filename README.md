@@ -25,13 +25,13 @@ Focused on automation, clean systems and scalable business software.
 
 ### 🚀 Products
 
-| Product | Positioning | Links | Status |
-|--------|------------|------|-------|
-| **AuditStock Pro** | Stock analytics & optimization platform | https://www.auditstock.pro | 🧪 Ongoing |
-| **Reassort Pro** | Intelligent inventory automation for SMBs | https://www.reassort.pro | ⚡ Production |
-| **StockAsso Pro** | Textile & stock SaaS for manufacturers | https://www.stockasso.pro | ⚡ Production |
-| **ActuAsso** | Media platform for associations | https://www.actuasso.com | ⚡ Production |
-| **StockAsso** | Digital ecosystem for sports organizations | https://www.stockasso.com | ⚡ Production |
+| Product | Positioning | Links | Status | Runtime |
+|--------|------------|------|-------|--------|
+| **AuditStock Pro** | Stock analytics & optimization platform | https://www.auditstock.pro | 🧪 Ongoing | .Net 10 LTS |
+| **Reassort Pro** | Intelligent inventory automation for SMBs | https://www.reassort.pro | ⚡ Production | .Net 10 LTS |
+| **StockAsso Pro** | Textile & stock SaaS for manufacturers | https://www.stockasso.pro | ⚡ Production | .Net 10 LTS |
+| **ActuAsso** | Media platform for associations | https://www.actuasso.com | ⚡ Production | .Net 10 LTS |
+| **StockAsso** | Digital ecosystem for sports organizations | https://www.stockasso.com | ⚡ Production | .Net 10 LTS (Aspire) |
 
 ---
 
