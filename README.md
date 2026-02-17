@@ -1,69 +1,64 @@
-# 👋 Hi, I'm Marc Chouteau
+## 👋 Marc Chouteau
 
-🚀 Founder & CTO @ Appliman  
-🧠 SaaS builder · Cloud architect · .NET enthusiast  
-🇫🇷 France
+SaaS Founder · CTO @ Appliman  
+Building real products used in the real world.
 
----
-
-## 💡 About me
-
-I design and build modern SaaS platforms from idea to production.
-
-With 20+ years in software engineering, I focus on turning business vision into scalable, production-ready products.  
-My expertise spans full-stack architecture, DevOps automation, and high-performance distributed systems. :contentReference[oaicite:0]{index=0}
-
-I’m currently building **Appliman**, a software company focused on intelligent web platforms powered by automation, cloud-native architecture, and AI. :contentReference[oaicite:1]{index=1}
+I design and ship production-ready SaaS platforms — from architecture to deployment.  
+Focused on automation, clean systems and scalable business software.
 
 ---
 
-## 🧠 What I build
+### 🧠 Founder Focus
 
-- Multi-tenant SaaS platforms
-- AI-powered business tools
-- High-scale web applications
-- Developer-first architectures
-
-Recent products include:
-
-- **Reassort Pro** → Smart inventory automation with AI  
-- **AuditStock Pro** → Advanced stock analytics & optimization  
-- **StockAsso** → Digital platforms for sports communities :contentReference[oaicite:2]{index=2}
+![SaaS](https://img.shields.io/badge/SaaS-000000?style=flat)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Native-0EA5E9?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-000000?style=flat)
 
 ---
 
-## ⚙️ Tech playground
+### 🚀 Products
 
-I work mostly in the Microsoft ecosystem, with a strong cloud-native approach:
-
-- **Languages**: C#, TypeScript, SQL
-- **Backend**: .NET, ASP.NET Core, Blazor
-- **Cloud & DevOps**: Docker, Traefik, Linux, Azure DevOps
-- **Data**: SQL Server, observability stacks
-- **AI**: Semantic Kernel, LLM integrations :contentReference[oaicite:3]{index=3}
-
----
-
-## 🏗️ What drives me
-
-- Building real products used by real people
-- Designing clean, evolutive architectures
-- Automating everything that can be automated
-- Mixing business strategy with deep tech
+| Product | Positioning | Status |
+|--------|------------|--------|
+| **Reassort Pro** | Intelligent inventory automation for SMBs | 🚀 Active |
+| **AuditStock Pro** | Stock analytics & optimization platform | 🚀 Scaling |
+| **StockAsso** | Digital ecosystem for sports organizations | ⚡ Production |
+| **StockAsso Pro** | Textile & stock SaaS for manufacturers | ⚡ Live |
+| **ActuAsso** | Media platform for associations | 🧪 Ongoing |
 
 ---
 
-## 🌍 Beyond code
+### ⚙️ What I build
 
-Entrepreneur at heart, I enjoy building ecosystems around products:  
-open tooling, developer workflows, and real-world SaaS deployment strategies.
+- Multi-tenant SaaS platforms  
+- Developer-first architectures  
+- Automated cloud infrastructure  
+- AI-powered business tools  
+
+Everything built with a strong bias toward:
+**simplicity · reliability · shipping fast**
 
 ---
 
-## 🤝 Let’s connect
+### 🏗️ Currently
+
+- Scaling multiple SaaS products  
+- Exploring AI-native workflows  
+- Building lean cloud infrastructures  
+- Optimizing developer velocity  
+
+---
+
+### 🌍 Links
 
 - 🌐 https://www.appliman.com  
+- 💼 https://github.com/chouteau  
 
 ---
 
-> “Ship fast, scale clean, automate everything.”
+> Build fast. Own the stack. Ship value.
